@@ -1,2 +1,2 @@
-# angular-8-introducao
+# Estudos Angular - DIO
 Repositório para estudo sobre Angular
