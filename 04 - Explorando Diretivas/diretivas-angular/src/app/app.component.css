@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(37, 34, 34);
+    color: aliceblue;
+}
+
+.custom {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}

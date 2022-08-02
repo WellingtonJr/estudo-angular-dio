@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+body{
+    background: rgb(37, 35, 35);
+    color: aliceblue;
+}
